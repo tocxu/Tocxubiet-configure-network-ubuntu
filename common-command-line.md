@@ -9,8 +9,8 @@ Hiển thị các định tuyến đi qua các card mạng
 #3. Nhóm lệnh cấu hình
 
 ##3.1 Gán địa chỉ IP tức thời
-Sẽ mất sau khi reboot máy
-**sudo ifconfig ethX IP-address netmask subnetmask**
+Sẽ mất sau khi reboot máy <br>
+**sudo ifconfig ethX IP-address netmask subnetmask**<br>
 vd: *sudo ifconfig eth0 192.168.1.2 netmask 255.255.255.0*
 
 ##3.1 Gán địa chỉ cố định và lưu vào file cấu hình
