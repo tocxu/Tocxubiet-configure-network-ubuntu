@@ -1,6 +1,6 @@
 #1. Nhóm lệnh Kiểm tra cấu hình mạng của ubuntu
 >sudo ip -4 a
->sudo ifconfig -a
+sudo ifconfig -a
 
 #2. Nhóm lệnh hiển thị
 Hiển thị các định tuyến đi qua các card mạng
